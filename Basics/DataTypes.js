@@ -28,4 +28,21 @@ console.log(typeof(temperature)); // Null is an object
 
 /* ---------- Non Primitive Datatypes ------------*/
 
-// Object
+// Objects 
+const product = {
+    name : "Parker Jotter Standard CT Ball Pen" ,
+    color: "(Black)",
+    ratings: 4, 
+    offer: 5,
+    price: 270
+};
+console.log(product);
+const profile = 
+{
+    userName : "Hadia Karim",
+    posts : 195,
+    followers :569,
+    following: 9,
+    bio : "Learning Javascript | CS-2nd year Undergraduate"
+};
+console.log(profile);
