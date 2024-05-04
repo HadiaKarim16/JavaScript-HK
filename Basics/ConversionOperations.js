@@ -1,4 +1,4 @@
-let score = "23";
+/*let score = "23";
 // One way
 console.log(typeof(score));
 // 2nd way
@@ -43,4 +43,44 @@ console.log(value_num);
 let some_number = 4455;
 let value = String(some_number);
 console.log(typeof value);
-console.log(value);
+console.log(value);*/
+
+
+/* ------------------------- Operations -------------------------------*/
+
+
+let Value = 3;
+let neg_Value = -Value;
+console.log(Value);
+console.log(neg_Value);
+
+// Arithmetic operations
+// Objects 
+const product = {
+    name : "Parker Jotter Standard CT Ball Pen" ,
+    color: "(Black)",
+    ratings: 4, 
+    offer: 5,
+    price: 270
+};
+console.log(product);
+const profile = 
+{
+    userName : "Hadia Karim",
+    posts : 195,
+    followers :569,
+    following: 9,
+    bio : "Learning Javascript | CS-2nd year Undergraduate"
+};
+console.log(profile);
+// Arithmetic operators
+let a = 5;
+let b = 2;
+console.log("a = ",a ,"& b =", b);
+console.log("a + b = ",a+b);
+console.log("a - b = ",a-b);
+console.log("a / b = ",a/b);
+console.log("a * b = ",a*b);
+console.log("a % b = ",a%b);
+// For Exponentiation
+console.log("a ** b = ",a**b);
