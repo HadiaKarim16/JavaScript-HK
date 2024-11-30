@@ -1,4 +1,6 @@
+// Variables in javascript
 const account_ID = 14445;
+let account_Name = "Hadia_Karim";
 let account_Email ="Hadiakarim@gmail.com";
 var account_Password = "12345";
 let account_State;
