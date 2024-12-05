@@ -1,0 +1,58 @@
+body {
+        background-color: #FFFACD; /* Lemon Chiffon */
+        color: #333; /* Dark text for contrast */
+}
+.heading{
+    text-align: center;
+    color: navy;
+    justify-content: center;
+    margin: 50px;
+    text-decoration: underline;
+}
+.button {
+    border: 2px solid black;
+    margin: 55px;
+    padding: 0; /* Reset padding to ensure square dimensions */
+    width: 120px; /* Medium square size */
+    height: 120px; /* Same as width for square shape */
+    display: inline-block; /* Ensures buttons stay inline */
+    text-align: center; /* Centers text inside the square */
+    line-height: 120px; /* Vertically centers text */
+    justify-content: center;
+}
+
+#lightcoral {
+    background-color: #FFB6C1;
+}
+
+#peachpuff {
+    background-color: #FFDAB9;
+}
+
+#LemonChiffon {
+    background-color: #FFFACD;
+}
+
+#Lavender {
+    background-color: #E6E6FA;
+}
+
+#PowderBlue {
+    background-color: #B0E0E6;
+}
+
+#BabyBlue {
+    background-color: #ADD8E6;
+}
+#color-heading{
+    text-align: center;
+    justify-content:center;
+    padding: 10px;
+}
+#color-info{
+    margin-top: 10px;
+}
+h2#color-heading {
+    color: brown;
+}
+
